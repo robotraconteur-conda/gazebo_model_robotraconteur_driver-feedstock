@@ -8,9 +8,9 @@ source:
 
 requirements:
   host:
-    - dotnet-sdk==3.1
+    - dotnet-sdk==3.1.409
   run:
-    - dotnet-sdk==3.1
+    - dotnet-sdk==3.1.409
 
 about:
   home: http://robotraconteur.com
